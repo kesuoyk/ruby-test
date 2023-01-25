@@ -1,0 +1,3 @@
+$config = {
+  'dbJsonFilePath' => './db.json'
+}
